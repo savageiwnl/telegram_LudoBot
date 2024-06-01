@@ -1,197 +1,197 @@
-Информация о команде: {'name': 'MOUZ', 'points': '1951'}
-Информация о команде: {'name': 'Spirit', 'points': '1950'}
-Информация о команде: {'name': 'FaZe', 'points': '1937'}
-Информация о команде: {'name': 'Vitality', 'points': '1835'}
-Информация о команде: {'name': 'Natus Vincere', 'points': '1816'}
-Информация о команде: {'name': 'Eternal Fire', 'points': '1771'}
-Информация о команде: {'name': 'G2', 'points': '1757'}
-Информация о команде: {'name': 'Astralis', 'points': '1742'}
-Информация о команде: {'name': 'Liquid', 'points': '1627'}
-Информация о команде: {'name': 'HEROIC', 'points': '1619'}
-Информация о команде: {'name': 'Virtus.pro', 'points': '1605'}
-Информация о команде: {'name': 'Complexity', 'points': '1585'}
-Информация о команде: {'name': 'MIBR', 'points': '1534'}
-Информация о команде: {'name': 'TheMongolz', 'points': '1469'}
-Информация о команде: {'name': 'Falcons', 'points': '1440'}
-Информация о команде: {'name': 'paiN', 'points': '1425'}
-Информация о команде: {'name': 'Cloud9', 'points': '1423'}
-Информация о команде: {'name': 'FlyQuest', 'points': '1394'}
-Информация о команде: {'name': 'BIG', 'points': '1386'}
-Информация о команде: {'name': 'Imperial', 'points': '1371'}
-Информация о команде: {'name': 'SAW', 'points': '1339'}
-Информация о команде: {'name': 'Aurora', 'points': '1326'}
-Информация о команде: {'name': 'BetBoom', 'points': '1312'}
-Информация о команде: {'name': '9z', 'points': '1299'}
-Информация о команде: {'name': 'FURIA', 'points': '1273'}
-Информация о команде: {'name': 'ENCE', 'points': '1271'}
-Информация о команде: {'name': 'GamerLegion', 'points': '1263'}
-Информация о команде: {'name': 'AMKAL', 'points': '1263'}
-Информация о команде: {'name': 'M80', 'points': '1218'}
-Информация о команде: {'name': 'Monte', 'points': '1215'}
-Информация о команде: {'name': 'Sashi', 'points': '1203'}
-Информация о команде: {'name': 'OG', 'points': '1192'}
-Информация о команде: {'name': 'GamerLegion', 'points': '1186'}
-Информация о команде: {'name': 'Nemiga', 'points': '1175'}
-Информация о команде: {'name': 'B8', 'points': '1166'}
-Информация о команде: {'name': 'Apeks', 'points': '1155'}
-Информация о команде: {'name': 'BLEED', 'points': '1155'}
-Информация о команде: {'name': '3DMAX', 'points': '1140'}
-Информация о команде: {'name': 'fnatic', 'points': '1125'}
-Информация о команде: {'name': '9 Pandas', 'points': '1124'}
-Информация о команде: {'name': 'RED Canids', 'points': '1115'}
-Информация о команде: {'name': 'Gaimin Gladiators', 'points': '1104'}
-Информация о команде: {'name': 'Zero Tenacity', 'points': '1071'}
-Информация о команде: {'name': 'Fluxo', 'points': '1070'}
-Информация о команде: {'name': 'Sangal', 'points': '1068'}
-Информация о команде: {'name': '1WIN', 'points': '1063'}
-Информация о команде: {'name': 'FORZE', 'points': '1059'}
-Информация о команде: {'name': 'BESTIA', 'points': '1057'}
-Информация о команде: {'name': 'MOUZ NXT', 'points': '1039'}
-Информация о команде: {'name': 'Ninjas in Pyjamas', 'points': '1034'}
-Информация о команде: {'name': 'Rebels', 'points': '1026'}
-Информация о команде: {'name': 'Metizport', 'points': '1009'}
-Информация о команде: {'name': 'Legacy', 'points': '1007'}
-Информация о команде: {'name': 'Nouns', 'points': '1000'}
-Информация о команде: {'name': 'ex-Preasy', 'points': '991'}
-Информация о команде: {'name': 'Lynn Vision', 'points': '989'}
-Информация о команде: {'name': 'Passion UA', 'points': '984'}
-Информация о команде: {'name': 'KOI', 'points': '978'}
-Информация о команде: {'name': 'SINNERS', 'points': '977'}
-Информация о команде: {'name': 'Johnny Speeds', 'points': '977'}
-Информация о команде: {'name': 'ECLOT', 'points': '971'}
-Информация о команде: {'name': 'Sharks', 'points': '971'}
-Информация о команде: {'name': 'Elevate', 'points': '969'}
-Информация о команде: {'name': 'Wildcard', 'points': '965'}
-Информация о команде: {'name': 'PARIVISION', 'points': '964'}
-Информация о команде: {'name': 'Party Astronauts', 'points': '948'}
-Информация о команде: {'name': 'Insilio', 'points': '938'}
-Информация о команде: {'name': 'ex-Guild Eagles', 'points': '924'}
-Информация о команде: {'name': 'Rhyno', 'points': '920'}
-Информация о команде: {'name': 'NRG', 'points': '917'}
-Информация о команде: {'name': 'PERA', 'points': '913'}
-Информация о команде: {'name': 'ODDIK', 'points': '906'}
-Информация о команде: {'name': 'Bad News Kangaroos', 'points': '900'}
-Информация о команде: {'name': 'RUBY', 'points': '898'}
-Информация о команде: {'name': 'Enterprise', 'points': '894'}
-Информация о команде: {'name': 'ATOX', 'points': '891'}
-Информация о команде: {'name': 'Gods Reign', 'points': '891'}
-Информация о команде: {'name': 'Endpoint', 'points': '886'}
-Информация о команде: {'name': 'TYLOO', 'points': '883'}
-Информация о команде: {'name': 'Sampi', 'points': '879'}
-Информация о команде: {'name': 'Permitta', 'points': '871'}
-Информация о команде: {'name': 'Rooster', 'points': '869'}
-Информация о команде: {'name': 'Young Ninjas', 'points': '862'}
-Информация о команде: {'name': 'Space', 'points': '860'}
-Информация о команде: {'name': 'Solid', 'points': '857'}
-Информация о команде: {'name': 'Pigeons', 'points': '851'}
-Информация о команде: {'name': 'brazylijski luz', 'points': '842'}
-Информация о команде: {'name': 'Alliance', 'points': '842'}
-Информация о команде: {'name': 'Grannys Knockers', 'points': '842'}
-Информация о команде: {'name': 'ECF', 'points': '839'}
-Информация о команде: {'name': 'Case', 'points': '838'}
-Информация о команде: {'name': 'NAVI Javelins', 'points': '836'}
-Информация о команде: {'name': 'FlyQuest RED', 'points': '833'}
-Информация о команде: {'name': 'EYEBALLERS', 'points': '831'}
-Информация о команде: {'name': 'Galorys', 'points': '829'}
-Информация о команде: {'name': 'ALTERNATE aTTaX', 'points': '822'}
-Информация о команде: {'name': 'Mythic', 'points': '817'}
-Информация о команде: {'name': 'LAG', 'points': '816'}
-Информация о команде: {'name': 'UNiTY', 'points': '801'}
-Информация о команде: {'name': '500', 'points': '791'}
-Информация о команде: {'name': 'BOSS', 'points': '786'}
-Информация о команде: {'name': 'FAVBET', 'points': '785'}
-Информация о команде: {'name': 'Astralis Talent', 'points': '776'}
-Информация о команде: {'name': 'Take Flyte', 'points': '775'}
-Информация о команде: {'name': 'DMS', 'points': '774'}
-Информация о команде: {'name': 'adalYamigos', 'points': '772'}
-Информация о команде: {'name': 'KRÜ', 'points': '771'}
-Информация о команде: {'name': 'Verdant', 'points': '769'}
-Информация о команде: {'name': 'RUSH B', 'points': '761'}
-Информация о команде: {'name': 'VP.Prodigy', 'points': '759'}
-Информация о команде: {'name': 'Ninjas in Pyjamas', 'points': '756'}
-Информация о команде: {'name': 'TSM', 'points': '755'}
-Информация о команде: {'name': 'Fluxo Demons', 'points': '751'}
-Информация о команде: {'name': 'Preasy', 'points': '751'}
-Информация о команде: {'name': 'ENCE Academy', 'points': '751'}
-Информация о команде: {'name': '777', 'points': '737'}
-Информация о команде: {'name': 'TSM Shimmer', 'points': '737'}
-Информация о команде: {'name': 'FLUFFY AIMERS', 'points': '737'}
-Информация о команде: {'name': 'True Rippers', 'points': '737'}
-Информация о команде: {'name': 'FURIA fe', 'points': '734'}
-Информация о команде: {'name': 'Spirit Academy', 'points': '733'}
-Информация о команде: {'name': 'The Chosen Few', 'points': '730'}
-Информация о команде: {'name': 'Into the Breach', 'points': '729'}
-Информация о команде: {'name': 'G3', 'points': '729'}
-Информация о команде: {'name': 'Carpe Diem', 'points': '728'}
-Информация о команде: {'name': 'esmagaB', 'points': '726'}
-Информация о команде: {'name': 'Nexus', 'points': '722'}
-Информация о команде: {'name': 'Betera', 'points': '717'}
-Информация о команде: {'name': 'NAVI Junior', 'points': '715'}
-Информация о команде: {'name': 'Mindfreak', 'points': '713'}
-Информация о команде: {'name': 'W7M', 'points': '711'}
-Информация о команде: {'name': 'BIG EQUIPA', 'points': '709'}
-Информация о команде: {'name': 'Rare Atom', 'points': '707'}
-Информация о команде: {'name': 'ARCRED', 'points': '702'}
-Информация о команде: {'name': 'ex-2GAME', 'points': '701'}
-Информация о команде: {'name': 'HAVU', 'points': '699'}
-Информация о команде: {'name': 'NKT', 'points': '696'}
-Информация о команде: {'name': 'The Witchers', 'points': '696'}
-Информация о команде: {'name': 'K10', 'points': '694'}
-Информация о команде: {'name': 'FORZE', 'points': '686'}
-Информация о команде: {'name': 'Case', 'points': '685'}
-Информация о команде: {'name': 'NIP Impact', 'points': '685'}
-Информация о команде: {'name': 'Fearless Cheetahs', 'points': '685'}
-Информация о команде: {'name': 'JANO', 'points': '680'}
-Информация о команде: {'name': 'LYG', 'points': '674'}
-Информация о команде: {'name': 'Entropiq', 'points': '672'}
-Информация о команде: {'name': 'PGE Turow', 'points': '661'}
-Информация о команде: {'name': 'Gods Reign', 'points': '659'}
-Информация о команде: {'name': 'ex-Guild fe', 'points': '657'}
-Информация о команде: {'name': 'ex-Anonymo', 'points': '656'}
-Информация о команде: {'name': 'Newhappy', 'points': '655'}
-Информация о команде: {'name': 'Aurora Young Blud', 'points': '647'}
-Информация о команде: {'name': 'One More', 'points': '644'}
-Информация о команде: {'name': 'Steel Helmet', 'points': '642'}
-Информация о команде: {'name': 'GODSENT', 'points': '631'}
-Информация о команде: {'name': 'TSM', 'points': '628'}
-Информация о команде: {'name': 'Nouns', 'points': '624'}
-Информация о команде: {'name': 'KZG', 'points': '623'}
-Информация о команде: {'name': 'ex-sYnck', 'points': '621'}
-Информация о команде: {'name': 'ENCE Athena', 'points': '618'}
-Информация о команде: {'name': 'GR', 'points': '618'}
-Информация о команде: {'name': 'Sprout', 'points': '615'}
-Информация о команде: {'name': 'Crescent fe', 'points': '610'}
-Информация о команде: {'name': 'Gucci Academy', 'points': '610'}
-Информация о команде: {'name': 'Arcade', 'points': '609'}
-Информация о команде: {'name': 'DXA', 'points': '606'}
-Информация о команде: {'name': 'Limitless', 'points': '601'}
-Информация о команде: {'name': 'Onyx Ravens', 'points': '591'}
-Информация о команде: {'name': 'ex-Sprout', 'points': '586'}
-Информация о команде: {'name': 'MIGHT', 'points': '586'}
-Информация о команде: {'name': 'Let Her Cook', 'points': '586'}
-Информация о команде: {'name': 'IKLA', 'points': '585'}
-Информация о команде: {'name': 'Vantage', 'points': '585'}
-Информация о команде: {'name': 'Rare Atom', 'points': '580'}
-Информация о команде: {'name': 'Rocket', 'points': '576'}
-Информация о команде: {'name': 'Astralis W', 'points': '576'}
-Информация о команде: {'name': 'The Huns', 'points': '574'}
-Информация о команде: {'name': 'FLUFFY AIMERS', 'points': '573'}
-Информация о команде: {'name': 'NOM', 'points': '571'}
-Информация о команде: {'name': 'V1dar', 'points': '570'}
-Информация о команде: {'name': 'Secret', 'points': '570'}
-Информация о команде: {'name': 'Mindfreak', 'points': '570'}
-Информация о команде: {'name': 'Spirit fe', 'points': '567'}
-Информация о команде: {'name': 'Corinthians', 'points': '563'}
-Информация о команде: {'name': 'JiJieHao', 'points': '562'}
-Информация о команде: {'name': 'Flamengo', 'points': '545'}
-Информация о команде: {'name': 'RKON', 'points': '539'}
-Информация о команде: {'name': 'Illuminar', 'points': '531'}
-Информация о команде: {'name': 'FURIA Academy', 'points': '525'}
-Информация о команде: {'name': 'TIMACETA', 'points': '524'}
-Информация о команде: {'name': 'MAG', 'points': '523'}
-Информация о команде: {'name': '9INE', 'points': '517'}
-Информация о команде: {'name': 'Viperio', 'points': '517'}
-Информация о команде: {'name': 'Flamengo', 'points': '506'}
-Информация о команде: {'name': 'Trouble makers', 'points': '501'}
-Информация о команде: {'name': 'LEON', 'points': '493'}
-Информация о команде: {'name': 'GUN5', 'points': '457'}
+{'name': 'MOUZ', 'points': '1951'}
+{'name': 'Spirit', 'points': '1950'}
+{'name': 'FaZe', 'points': '1937'}
+{'name': 'Vitality', 'points': '1835'}
+{'name': 'Natus Vincere', 'points': '1816'}
+{'name': 'Eternal Fire', 'points': '1771'}
+{'name': 'G2', 'points': '1757'}
+{'name': 'Astralis', 'points': '1742'}
+{'name': 'Liquid', 'points': '1627'}
+{'name': 'HEROIC', 'points': '1619'}
+{'name': 'Virtus.pro', 'points': '1605'}
+{'name': 'Complexity', 'points': '1585'}
+{'name': 'MIBR', 'points': '1534'}
+{'name': 'TheMongolz', 'points': '1469'}
+{'name': 'Falcons', 'points': '1440'}
+{'name': 'paiN', 'points': '1425'}
+{'name': 'Cloud9', 'points': '1423'}
+{'name': 'FlyQuest', 'points': '1394'}
+{'name': 'BIG', 'points': '1386'}
+{'name': 'Imperial', 'points': '1371'}
+{'name': 'SAW', 'points': '1339'}
+{'name': 'Aurora', 'points': '1326'}
+{'name': 'BetBoom', 'points': '1312'}
+{'name': '9z', 'points': '1299'}
+{'name': 'FURIA', 'points': '1273'}
+{'name': 'ENCE', 'points': '1271'}
+{'name': 'GamerLegion', 'points': '1263'}
+{'name': 'AMKAL', 'points': '1263'}
+{'name': 'M80', 'points': '1218'}
+{'name': 'Monte', 'points': '1215'}
+{'name': 'Sashi', 'points': '1203'}
+{'name': 'OG', 'points': '1192'}
+{'name': 'GamerLegion', 'points': '1186'}
+{'name': 'Nemiga', 'points': '1175'}
+{'name': 'B8', 'points': '1166'}
+{'name': 'Apeks', 'points': '1155'}
+{'name': 'BLEED', 'points': '1155'}
+{'name': '3DMAX', 'points': '1140'}
+{'name': 'fnatic', 'points': '1125'}
+{'name': '9 Pandas', 'points': '1124'}
+{'name': 'RED Canids', 'points': '1115'}
+{'name': 'Gaimin Gladiators', 'points': '1104'}
+{'name': 'Zero Tenacity', 'points': '1071'}
+{'name': 'Fluxo', 'points': '1070'}
+{'name': 'Sangal', 'points': '1068'}
+{'name': '1WIN', 'points': '1063'}
+{'name': 'FORZE', 'points': '1059'}
+{'name': 'BESTIA', 'points': '1057'}
+{'name': 'MOUZ NXT', 'points': '1039'}
+{'name': 'Ninjas in Pyjamas', 'points': '1034'}
+{'name': 'Rebels', 'points': '1026'}
+{'name': 'Metizport', 'points': '1009'}
+{'name': 'Legacy', 'points': '1007'}
+{'name': 'Nouns', 'points': '1000'}
+{'name': 'ex-Preasy', 'points': '991'}
+{'name': 'Lynn Vision', 'points': '989'}
+{'name': 'Passion UA', 'points': '984'}
+{'name': 'KOI', 'points': '978'}
+{'name': 'SINNERS', 'points': '977'}
+{'name': 'Johnny Speeds', 'points': '977'}
+{'name': 'ECLOT', 'points': '971'}
+{'name': 'Sharks', 'points': '971'}
+{'name': 'Elevate', 'points': '969'}
+{'name': 'Wildcard', 'points': '965'}
+{'name': 'PARIVISION', 'points': '964'}
+{'name': 'Party Astronauts', 'points': '948'}
+{'name': 'Insilio', 'points': '938'}
+{'name': 'ex-Guild Eagles', 'points': '924'}
+{'name': 'Rhyno', 'points': '920'}
+{'name': 'NRG', 'points': '917'}
+{'name': 'PERA', 'points': '913'}
+{'name': 'ODDIK', 'points': '906'}
+{'name': 'Bad News Kangaroos', 'points': '900'}
+{'name': 'RUBY', 'points': '898'}
+{'name': 'Enterprise', 'points': '894'}
+{'name': 'ATOX', 'points': '891'}
+{'name': 'Gods Reign', 'points': '891'}
+{'name': 'Endpoint', 'points': '886'}
+{'name': 'TYLOO', 'points': '883'}
+{'name': 'Sampi', 'points': '879'}
+{'name': 'Permitta', 'points': '871'}
+{'name': 'Rooster', 'points': '869'}
+{'name': 'Young Ninjas', 'points': '862'}
+{'name': 'Space', 'points': '860'}
+{'name': 'Solid', 'points': '857'}
+{'name': 'Pigeons', 'points': '851'}
+{'name': 'brazylijski luz', 'points': '842'}
+{'name': 'Alliance', 'points': '842'}
+{'name': 'Grannys Knockers', 'points': '842'}
+{'name': 'ECF', 'points': '839'}
+{'name': 'Case', 'points': '838'}
+{'name': 'NAVI Javelins', 'points': '836'}
+{'name': 'FlyQuest RED', 'points': '833'}
+{'name': 'EYEBALLERS', 'points': '831'}
+{'name': 'Galorys', 'points': '829'}
+{'name': 'ALTERNATE aTTaX', 'points': '822'}
+{'name': 'Mythic', 'points': '817'}
+{'name': 'LAG', 'points': '816'}
+{'name': 'UNiTY', 'points': '801'}
+{'name': '500', 'points': '791'}
+{'name': 'BOSS', 'points': '786'}
+{'name': 'FAVBET', 'points': '785'}
+{'name': 'Astralis Talent', 'points': '776'}
+{'name': 'Take Flyte', 'points': '775'}
+{'name': 'DMS', 'points': '774'}
+{'name': 'adalYamigos', 'points': '772'}
+{'name': 'KRÜ', 'points': '771'}
+{'name': 'Verdant', 'points': '769'}
+{'name': 'RUSH B', 'points': '761'}
+{'name': 'VP.Prodigy', 'points': '759'}
+{'name': 'Ninjas in Pyjamas', 'points': '756'}
+{'name': 'TSM', 'points': '755'}
+{'name': 'Fluxo Demons', 'points': '751'}
+{'name': 'Preasy', 'points': '751'}
+{'name': 'ENCE Academy', 'points': '751'}
+{'name': '777', 'points': '737'}
+{'name': 'TSM Shimmer', 'points': '737'}
+{'name': 'FLUFFY AIMERS', 'points': '737'}
+{'name': 'True Rippers', 'points': '737'}
+{'name': 'FURIA fe', 'points': '734'}
+{'name': 'Spirit Academy', 'points': '733'}
+{'name': 'The Chosen Few', 'points': '730'}
+{'name': 'Into the Breach', 'points': '729'}
+{'name': 'G3', 'points': '729'}
+{'name': 'Carpe Diem', 'points': '728'}
+{'name': 'esmagaB', 'points': '726'}
+{'name': 'Nexus', 'points': '722'}
+{'name': 'Betera', 'points': '717'}
+{'name': 'NAVI Junior', 'points': '715'}
+{'name': 'Mindfreak', 'points': '713'}
+{'name': 'W7M', 'points': '711'}
+{'name': 'BIG EQUIPA', 'points': '709'}
+{'name': 'Rare Atom', 'points': '707'}
+{'name': 'ARCRED', 'points': '702'}
+{'name': 'ex-2GAME', 'points': '701'}
+{'name': 'HAVU', 'points': '699'}
+{'name': 'NKT', 'points': '696'}
+{'name': 'The Witchers', 'points': '696'}
+{'name': 'K10', 'points': '694'}
+{'name': 'FORZE', 'points': '686'}
+{'name': 'Case', 'points': '685'}
+{'name': 'NIP Impact', 'points': '685'}
+{'name': 'Fearless Cheetahs', 'points': '685'}
+{'name': 'JANO', 'points': '680'}
+{'name': 'LYG', 'points': '674'}
+{'name': 'Entropiq', 'points': '672'}
+{'name': 'PGE Turow', 'points': '661'}
+{'name': 'Gods Reign', 'points': '659'}
+{'name': 'ex-Guild fe', 'points': '657'}
+{'name': 'ex-Anonymo', 'points': '656'}
+{'name': 'Newhappy', 'points': '655'}
+{'name': 'Aurora Young Blud', 'points': '647'}
+{'name': 'One More', 'points': '644'}
+{'name': 'Steel Helmet', 'points': '642'}
+{'name': 'GODSENT', 'points': '631'}
+{'name': 'TSM', 'points': '628'}
+{'name': 'Nouns', 'points': '624'}
+{'name': 'KZG', 'points': '623'}
+{'name': 'ex-sYnck', 'points': '621'}
+{'name': 'ENCE Athena', 'points': '618'}
+{'name': 'GR', 'points': '618'}
+{'name': 'Sprout', 'points': '615'}
+{'name': 'Crescent fe', 'points': '610'}
+{'name': 'Gucci Academy', 'points': '610'}
+{'name': 'Arcade', 'points': '609'}
+{'name': 'DXA', 'points': '606'}
+{'name': 'Limitless', 'points': '601'}
+{'name': 'Onyx Ravens', 'points': '591'}
+{'name': 'ex-Sprout', 'points': '586'}
+{'name': 'MIGHT', 'points': '586'}
+{'name': 'Let Her Cook', 'points': '586'}
+{'name': 'IKLA', 'points': '585'}
+{'name': 'Vantage', 'points': '585'}
+{'name': 'Rare Atom', 'points': '580'}
+{'name': 'Rocket', 'points': '576'}
+{'name': 'Astralis W', 'points': '576'}
+{'name': 'The Huns', 'points': '574'}
+{'name': 'FLUFFY AIMERS', 'points': '573'}
+{'name': 'NOM', 'points': '571'}
+{'name': 'V1dar', 'points': '570'}
+{'name': 'Secret', 'points': '570'}
+{'name': 'Mindfreak', 'points': '570'}
+{'name': 'Spirit fe', 'points': '567'}
+{'name': 'Corinthians', 'points': '563'}
+{'name': 'JiJieHao', 'points': '562'}
+{'name': 'Flamengo', 'points': '545'}
+{'name': 'RKON', 'points': '539'}
+{'name': 'Illuminar', 'points': '531'}
+{'name': 'FURIA Academy', 'points': '525'}
+{'name': 'TIMACETA', 'points': '524'}
+{'name': 'MAG', 'points': '523'}
+{'name': '9INE', 'points': '517'}
+{'name': 'Viperio', 'points': '517'}
+{'name': 'Flamengo', 'points': '506'}
+{'name': 'Trouble makers', 'points': '501'}
+{'name': 'LEON', 'points': '493'}
+{'name': 'GUN5', 'points': '457'}
