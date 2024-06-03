@@ -4,7 +4,7 @@ import re
 import random
 
 
-api_token = 'ur api token'
+api_token = '7175615135:AAHdnFOAHMsMlOSufHxgjgvuSuJ7Kz3PktM'
 bot = telebot.TeleBot(api_token)
 
 # Функция для чтения данных о командах из файла
@@ -19,8 +19,6 @@ def read_teams_info_from_file(filename):
                 teams_info[team_name.lower()] = {'name': team_name, 'points': team_points}
     return teams_info
 
-# Проверка содержимого teams_info
-teams_info = read_teams_info_from_file('teams_info.txt')
 
 # Функция для создания клавиатуры с командами
 def create_keyboard():
@@ -49,6 +47,8 @@ def write_link(message):
 # Функция для обработки команды /help
 @bot.message_handler(commands=['help'])
 def send_help(message):
+    welcome_text = "Добро пожаловать! Выберите команду:"
+    bot.send_message(message.chat.id, welcome_text, reply_markup=create_keyboard())
     COMMANDS = ['help', 'hello', 'match', 'teams', 'link']  # Список доступных команд
     bot.send_message(message.chat.id, 'Существующие команды: /' + ', /'.join(COMMANDS))
 
@@ -90,6 +90,10 @@ def match_winner(message):
     # Получаем информацию о каждой команде
     team1_info = teams_info[teams[0].lower()]
     team2_info = teams_info[teams[1].lower()]
+
+    if team1_info == team2_info:
+        bot.send_message(message.chat.id, '"Team One" "Team Two" должны отличаться.')
+        return
 
     # Определяем шансы на победу для каждой команды
     total_points = int(team1_info['points']) + int(team2_info['points'])
