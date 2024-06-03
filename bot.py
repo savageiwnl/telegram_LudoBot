@@ -4,7 +4,7 @@ import re
 import random
 
 
-api_token = '7175615135:AAHdnFOAHMsMlOSufHxgjgvuSuJ7Kz3PktM'
+api_token = ''
 bot = telebot.TeleBot(api_token)
 
 # Функция для чтения данных о командах из файла
